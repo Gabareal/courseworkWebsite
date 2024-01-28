@@ -1,0 +1,5 @@
+var name = document.getElementById("name")
+var date = document.getElementById("date")
+var desc = document.getElementById("desc")
+var location = document.getElementById("location")
+var name = document.getElementById("name")
